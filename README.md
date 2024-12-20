@@ -4,5 +4,5 @@ This project allows you to extract information from specific emails using the Gm
 
 ## Available Languages
 
-- [English](README_en.md)
-- [Español](README_es.md)
+- [English](Readme_en.md)
+- [Español](Readme_es.md)
